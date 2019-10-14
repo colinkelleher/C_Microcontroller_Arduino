@@ -6,3 +6,6 @@ Arduino Uno - C for Microcontrollers
 - Using Arduino Uno
 # Projects Include:
 ## Knightrider
+write code to get the LEDs to "chase" each other back and forth.
+
+## Keyboard Piano
