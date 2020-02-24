@@ -1,2 +1,0 @@
-larry
-team m
